@@ -1,0 +1,11 @@
+bin/
+out/
+*.class
+record.txt
+
+.idea/
+*.iml
+.vscode/
+.metadata/
+.DS_Store
+Thumbs.db
